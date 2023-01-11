@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactpyogesh/static/css/main.073c9b0a.css",
+    "main.js": "/reactpyogesh/static/js/main.bdfe85e9.js",
+    "static/js/787.3d6b0460.chunk.js": "/reactpyogesh/static/js/787.3d6b0460.chunk.js",
+    "static/media/logo.svg": "/reactpyogesh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactpyogesh/index.html",
+    "main.073c9b0a.css.map": "/reactpyogesh/static/css/main.073c9b0a.css.map",
+    "main.bdfe85e9.js.map": "/reactpyogesh/static/js/main.bdfe85e9.js.map",
+    "787.3d6b0460.chunk.js.map": "/reactpyogesh/static/js/787.3d6b0460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bdfe85e9.js"
+  ]
+}
